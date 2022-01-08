@@ -7,3 +7,5 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=725333965
 Thanks to N̅i̅g̅h̅t̅b̅r̅e̅e̅d̅ for these fixes.
 
 I am posting it here so they do not get lost since I have needed them more than once.
+
+Fixes issues wit hloading GTA IV, L.A. Noire & both Max Paine 2 & 3 that use RSL.
